@@ -152,9 +152,12 @@ header {
   border-right: 1px solid #ccc;
   text-decoration: none;
   font: 1em "Trebuchet MS", Ariel, sans-serif;
-
 }
 
+#navbar nav a.selected{
+  background: #ccc;
+  color: white
+}
 /*////////// LOGO //////////*/
 
 
