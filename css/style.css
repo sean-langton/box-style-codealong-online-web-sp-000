@@ -144,7 +144,7 @@ header {
 
 #navbar nav a{
   display: inline-block;
-  width: 16.66%;
+  width: 15%;
   padding: 22px 0;
   text-transform: uppercase;
   color: black;
@@ -152,7 +152,7 @@ header {
   border-right: 1px solid #ccc;
   text-decoration: none;
   font: 1em "Trebuchet MS", Ariel, sans-serif;
-  
+
 }
 
 /*////////// LOGO //////////*/
