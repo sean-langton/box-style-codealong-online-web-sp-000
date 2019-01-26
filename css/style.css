@@ -128,7 +128,7 @@ header {
 
 /*////////// NAVBAR //////////*/
 
-navbar {
+#navbar {
   position: fixed;
   top 0;
   left 0;
@@ -137,6 +137,7 @@ navbar {
   border-bottom: 1px solid #ccc;
   text-align: center;
 }
+
 
 /*////////// LOGO //////////*/
 
